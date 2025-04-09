@@ -2,7 +2,7 @@
   "name": "todos",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://VILZAR.github.io/",
+  "homepage": "https://VILZAR.github.io/todos",
   "type": "module",
   "scripts": {
     "dev": "vite",
